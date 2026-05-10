@@ -1,0 +1,1 @@
+This program acts as a mini wallet. This is a very simplified version which I hope to expand on in the future. I made this program with six buttons. Five of them are for entering numbers and the last button is for totaling everything up. I used six event listeners for this. Each event(button) has a function that performs some simple math and a NaN check on the entered data.
